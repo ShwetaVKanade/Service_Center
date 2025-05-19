@@ -1,0 +1,49 @@
+/* body {
+    background-color: #eaf7f7;
+} */
+.contact-section {
+    text-align: center;
+    padding: 40px 0;
+}
+.contact-section h2 {
+    font-weight: bold;
+}
+.contact-section h2 span {
+    color: red;
+}
+.btn-custom {
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    padding: 10px 20px;
+    font-size: 18px;
+}
+.info-card {
+    background: #d9edf7;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    text-align: start;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);
+}
+.info-card i {
+    font-size: 30px;
+    margin-right: 15px;
+}
+.location-card {
+    background: #d9edf7;
+    padding: 75px;
+    border-radius: 8px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.5);
+}
+.location-card h4 {
+    color: red;
+    font-weight: bold;
+}
+.info-card a {
+    text-decoration: none;
+    font-weight: bold;
+    color: blue;
+}
